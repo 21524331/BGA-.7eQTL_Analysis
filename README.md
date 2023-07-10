@@ -1,1 +1,2 @@
 # BGA-.7eQTL_Analysis
+One approach to identifying allelic variants associated with gene expression is by examining the influence of genetic factors on the regulation of gene expression. This can be done by investigating the proportion of transcripts that are under genetic control. By identifying genetic variants that correlate with changes in gene expression levels, we can infer the allelic variants associated with gene expression.
